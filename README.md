@@ -59,6 +59,7 @@ This project implements the complete set of standard rules for Connect 4 in a co
 
 ## Credits
 Programmed by:
+- Ahmad Abdullah
 - Ayesha Noor
 - Hashim Shaid
-- Ahmad Abdullah
+
